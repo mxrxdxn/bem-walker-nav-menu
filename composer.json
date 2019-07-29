@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CP\\BEM\\" : ""
+            "CP\\BEM\\" : "src/"
         },
         "files": [
           "walker.php"
