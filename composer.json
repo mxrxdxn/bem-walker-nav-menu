@@ -16,12 +16,7 @@
     "autoload": {
         "psr-4": {
             "CP\\BEM\\": "src/"
-        },
-        "files": [
-            "src/class-walker-nav-menu.php",
-            "src/class-wp-walker.php",
-            "src/walker.php"
-        ]
+        }
     },
     "keywords": [
         "navigation",
