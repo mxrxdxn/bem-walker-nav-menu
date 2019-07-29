@@ -18,7 +18,7 @@
             "CP\\BEM\\" : "src/"
         },
         "files": [
-          "walker.php"
+          "src/walker.php"
         ]
     },
     "keywords": [
