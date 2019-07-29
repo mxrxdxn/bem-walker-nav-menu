@@ -14,7 +14,7 @@ namespace CP\BEM;
  * @package WordPress
  * @abstract
  */
-class Walker {
+class CP_Walker {
 	/**
 	 * What the class handles.
 	 *

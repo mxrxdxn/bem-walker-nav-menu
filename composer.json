@@ -15,10 +15,12 @@
     },
     "autoload": {
         "psr-4": {
-            "CP\\BEM\\" : "src/"
+            "CP\\BEM\\": "src/"
         },
         "files": [
-          "src/walker.php"
+            "src/class-walker-nav-menu.php",
+            "src/class-wp-walker.php",
+            "src/walker.php"
         ]
     },
     "keywords": [

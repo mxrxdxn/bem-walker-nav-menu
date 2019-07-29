@@ -2,7 +2,7 @@
 
 namespace CP\BEM;
 
-class navWalker extends Walker_Nav_Menu
+class navWalker extends CP_Walker_Nav_Menu
 {
     /**
      * @var string

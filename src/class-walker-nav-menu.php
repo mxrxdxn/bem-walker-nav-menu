@@ -17,7 +17,7 @@ namespace CP\BEM;
  *
  * @see Walker
  */
-class Walker_Nav_Menu extends Walker {
+class CP_Walker_Nav_Menu extends CP_Walker {
 	/**
 	 * What the class handles.
 	 *class-wp-walker.php
