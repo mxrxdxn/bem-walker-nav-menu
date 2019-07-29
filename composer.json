@@ -18,8 +18,8 @@
             "CP\\BEM\\": "src/"
         },
         "files": [
-            "class-walker-nav-menu.php",
-            "class-wp-walker.php",
+            "src/class-walker-nav-menu.php",
+            "src/class-wp-walker.php",
             "src/walker.php"
         ]
     },

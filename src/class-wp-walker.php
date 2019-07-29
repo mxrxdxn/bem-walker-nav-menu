@@ -1,4 +1,7 @@
 <?php
+
+namespace CP\BEM;
+
 /**
  * A class for displaying various tree-like structures.
  *
